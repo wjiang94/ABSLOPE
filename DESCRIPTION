@@ -1,0 +1,25 @@
+Package: ABSLOPE
+Type: Package
+Title: High-dimensional Model Selection with Missing Values
+Version: 0.1.0
+Date: 2019-07-10
+Authors@R: person("Wei", "Jiang", email = "wei.jiang@polytechnique.edu", role = c("aut", "cre"))
+Description: Perform model selection with existence of missing values in covaraites, based on the Adaptive Bayesian SLOPE model.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    mice,
+    SLOPE,
+    truncdist,
+    nlshrink,
+    MASS,
+    glmnet,
+    missMDA,
+    stats,
+    Rcpp,
+    RcppArmadillo
+RoxygenNote: 6.1.1
+LinkingTo: 
+    Rcpp,
+    RcppArmadillo
