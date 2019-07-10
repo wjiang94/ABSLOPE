@@ -10,5 +10,6 @@ Preprint [PDF](https://drive.google.com/file/d/1Y_FzqfmYZQHlapbm9AHQWZmcs49iwRU1
 ## Install package: 
 
 `library(devtools)`
+
 `install_github("author/package")`
  
