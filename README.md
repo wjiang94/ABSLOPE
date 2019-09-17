@@ -4,7 +4,7 @@ R Package for "Adaptive Bayesian SLOPE ---  High-dimensional Model Selection wit
 
 (2019, Bogdan M., Jiang W., Josse J., Miasojedow B., Rockova V.) 
  
-Preprint [PDF](https://drive.google.com/file/d/1Y_FzqfmYZQHlapbm9AHQWZmcs49iwRU1/view).
+Preprint on [Arxiv](https://arxiv.org/abs/1909.06631).
 
  
 ## Install package: 
